@@ -1,0 +1,72 @@
+body {
+  background-color: #0d1117;
+}
+
+h1 {
+  color: #58a6ff;
+}
+
+.navbar {
+}
+
+h2 {
+  color: #e6edf3;
+}
+
+.text-explore {
+  color: #8b949e;
+}
+
+.browse {
+  color:#0D1117;
+  background-color: #58A6FF;
+}
+
+.card-one {
+}
+
+.CP {
+  color: #e6edf3;
+}
+
+.genre-CP {
+  color: #8b949e;
+}
+
+.card-two {
+}
+
+.ER {
+  color: #e6edf3;
+}
+
+.genre-ER {
+  color: #8b949e;
+}
+
+.card-three {
+}
+
+.GTA {
+  color: #e6edf3;
+}
+
+.genre-GTA {
+  color: #8b949e;
+}
+
+.card-four {
+}
+
+.MC {
+  color: #e6edf3;
+}
+
+.genre-MC {
+  color: #8b949e;
+}
+
+.read-btn {
+    color:#0D1117;
+  background-color: #58A6FF;
+}
