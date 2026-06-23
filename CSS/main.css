@@ -6,7 +6,17 @@ h1 {
   color: #58a6ff;
 }
 
+
+.flexbox-nav{
+
+
+display: flex;
+align-items: center;
+}
+
 .navbar {
+display: flex;
+gap: 20px;
 }
 
 h2 {
