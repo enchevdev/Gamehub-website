@@ -14,106 +14,133 @@ h1 {
 .navbar {
   display: flex;
   gap: 20px;
+  list-style: none;
+}
+
+.navbar {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  color: #8b949e;
 }
 
 h2 {
   color: #e6edf3;
+    text-align: center;
 }
 
 .text-explore {
   color: #8b949e;
+    text-align: center;
 }
 
 .browse {
   color: #0d1117;
   background-color: #58a6ff;
+    display: block;
+  margin: 10px auto 0 auto;
+}
+
+.card-flexbox {
+  padding-top: 2rem;
+  display: flex;
 }
 
 .card-one {
-  border-radius: 70%;
   border: 1px solid #ccc;
   padding: 16px;
   border-radius: 10px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
-  width: 30rem;
+  width: 20rem;
 }
 
 .CP-image {
-  width: 30rem;
+  width: 20rem;
 }
 
 .CP {
   color: #e6edf3;
+  text-align: center;
 }
 
 .genre-CP {
   color: #8b949e;
+  text-align: center;
 }
 
 .card-two {
-  border-radius: 70%;
   border: 1px solid #ccc;
   padding: 16px;
   border-radius: 10px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
-  width: 30rem;
+  width: 20rem;
 }
 
 .ER-image {
-  width: 30rem;
+  width: 20rem;
 }
 
 .ER {
   color: #e6edf3;
+  text-align: center;
 }
 
 .genre-ER {
   color: #8b949e;
+  text-align: center;
 }
 
 .card-three {
-  border-radius: 70%;
   border: 1px solid #ccc;
   padding: 16px;
   border-radius: 10px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
-  width: 30rem;
+  width: 20rem;
 }
 
 .GTA-image {
-  width: 30rem;
+  width: 20rem;
 }
 
 .GTA {
   color: #e6edf3;
+  text-align: center;
 }
 
 .genre-GTA {
   color: #8b949e;
+  text-align: center;
 }
 
 .card-four {
-  border-radius: 70%;
   border: 1px solid #ccc;
   padding: 16px;
   border-radius: 10px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
-  width: 30rem;
+  width: 20rem;
 }
 
 .MC-image {
-  width: 30rem;
+  width: 20rem;
 }
 
 .MC {
   color: #e6edf3;
+  text-align: center;
 }
 
 .genre-MC {
   color: #8b949e;
+  text-align: center;
 }
 
 .read-btn {
   color: #0d1117;
   background-color: #58a6ff;
+  display: block;
+  margin: 10px auto 0 auto;
 }
