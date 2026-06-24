@@ -6,17 +6,14 @@ h1 {
   color: #58a6ff;
 }
 
-
-.flexbox-nav{
-
-
-display: flex;
-align-items: center;
+.flexbox-nav {
+  display: flex;
+  align-items: center;
 }
 
 .navbar {
-display: flex;
-gap: 20px;
+  display: flex;
+  gap: 20px;
 }
 
 h2 {
@@ -28,11 +25,21 @@ h2 {
 }
 
 .browse {
-  color:#0D1117;
-  background-color: #58A6FF;
+  color: #0d1117;
+  background-color: #58a6ff;
 }
 
 .card-one {
+  border-radius: 70%;
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  width: 30rem;
+}
+
+.CP-image {
+  width: 30rem;
 }
 
 .CP {
@@ -44,6 +51,16 @@ h2 {
 }
 
 .card-two {
+  border-radius: 70%;
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  width: 30rem;
+}
+
+.ER-image {
+  width: 30rem;
 }
 
 .ER {
@@ -55,6 +72,16 @@ h2 {
 }
 
 .card-three {
+  border-radius: 70%;
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  width: 30rem;
+}
+
+.GTA-image {
+  width: 30rem;
 }
 
 .GTA {
@@ -66,6 +93,16 @@ h2 {
 }
 
 .card-four {
+  border-radius: 70%;
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  width: 30rem;
+}
+
+.MC-image {
+  width: 30rem;
 }
 
 .MC {
@@ -77,6 +114,6 @@ h2 {
 }
 
 .read-btn {
-    color:#0D1117;
-  background-color: #58A6FF;
+  color: #0d1117;
+  background-color: #58a6ff;
 }
