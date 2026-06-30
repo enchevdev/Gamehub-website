@@ -11,11 +11,6 @@ h1 {
   align-items: center;
 }
 
-.navbar {
-  display: flex;
-  gap: 20px;
-  list-style: none;
-}
 
 .navbar {
   display: flex;
